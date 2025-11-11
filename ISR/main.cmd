@@ -1,6 +1,6 @@
 @echo off
 title ISR File Downloader
-color 0A
+
 
 :menu
 cls
