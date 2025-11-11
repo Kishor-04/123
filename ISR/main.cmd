@@ -1,6 +1,5 @@
 @echo off
 title Command Menu Demo
-color 0a
 
 :MENU
 echo -----------------------------------

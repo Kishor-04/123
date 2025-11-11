@@ -1,6 +1,5 @@
 @echo off
 title DCS File Downloader
-color 0A
 
 :menu
 cls
