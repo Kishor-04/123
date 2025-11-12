@@ -9,7 +9,7 @@ public class ArithmeticClient {
             System.out.print("Enter two numbers: ");
             int a = sc.nextInt(), b = sc.nextInt();
             System.out.println("Result = " + obj.add(a, b));
-             sc.close();
+            sc.close();
        } 
        catch (Exception e) { System.out.println(e); 
        }
